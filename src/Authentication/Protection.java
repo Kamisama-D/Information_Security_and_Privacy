@@ -19,7 +19,7 @@ public class Protection
 			return new byte[0];
 		}
 	}	
-
+ 
 	public static byte[] makeDigest(byte[] mush, long t2, double q2) throws NoSuchAlgorithmException 
 	{
 		MessageDigest md = MessageDigest.getInstance("SHA");
