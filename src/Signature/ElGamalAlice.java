@@ -3,7 +3,7 @@ import java.io.*;
 import java.net.*;
 import java.security.*;
 import java.math.BigInteger;
-
+ 
 public class ElGamalAlice
 {
 	private static BigInteger computeY(BigInteger p, BigInteger g, BigInteger d)
