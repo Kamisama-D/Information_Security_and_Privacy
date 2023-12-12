@@ -27,7 +27,7 @@ public class HashGenerator {
 			System.err.println("Algorithm not found: " + algorithm);
 			return null;
 		}
-		
+		 
 	}
 	
 	private static StringBuilder byteToHex(byte[] bytes) {
