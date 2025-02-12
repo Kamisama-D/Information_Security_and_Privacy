@@ -1,1 +1,1 @@
-# INFSCI2150_Information_Security_and_Privacy
+# Information_Security_and_Privacy
